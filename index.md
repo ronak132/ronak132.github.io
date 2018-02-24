@@ -1,8 +1,7 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/ronak132/ronak132.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a master's student at Texas A & M University pusuring my degree in Computer Science. Completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with minor in computer science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
