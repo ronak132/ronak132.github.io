@@ -43,7 +43,13 @@ I am interested in railways, how they function and operate. I won a national lev
 ### Information Retreival
 So, for Information retreival course we have to make a webpage which has phrase "kbeznak parmatonic" in it. Werid assignment, but it got me to make my own page, so cool.
 
+You can search for this phrase [here](https://sites.google.com/view/kbeznakparmatoniclist/home)
+
+
 
 ### Support or Contact
 
 I can be reached at ronakchaudhary1321993@gmail.com. I usually reply within an hour unless ofcourse I am sleeping.
+
+
+
