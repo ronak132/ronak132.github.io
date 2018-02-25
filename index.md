@@ -5,27 +5,9 @@ I am a master's student at Texas A & M University pusuring my degree in Computer
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am interested in computer vision, machine learning and its application on various aspects, especially which impact life of a common man, makes it easy.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can find my resume here [Resume](https://goo.gl/Sfpzk/).
 
 ### Jekyll Themes
 
