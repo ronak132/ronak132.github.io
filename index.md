@@ -47,9 +47,9 @@ You can search for this phrase [here](https://sites.google.com/view/kbeznakparma
 
 
 
-### Support or Contact
+### Contact
 
-I can be reached at ronakchaudhary1321993@gmail.com. I usually reply within an hour unless ofcourse I am sleeping.
+I can be reached at ronakchaudhary1321993@gmail.com. I usually reply within an hour unless, ofcourse, I am sleeping.
 
 
 
