@@ -8,6 +8,12 @@ I worked for 2 years, first as software engineer at Bankbazaar and then project 
 
 I am interested in computer vision, machine learning and its application on various aspects, especially which impact life of a common man, makes it easy.
 
+Projects I worked on :-
+Sketch-tutor :- game designed to learn a new language by sketching the characters in a fun way.
+Age determination by facial recognition - determining age of a person by using the density of wrinkle present on face.
+Video compression :- video compression based on region of interest in a video stream.
+Image captioning for grayscale images :- generating captions for grayscale images by using image classification and NLP techniques.
+
 I am also interested in robotics. I was Coordinator of [Robotics Club IITH](https://www.facebook.com/RoboticsClubIITH/).
 
 I also worked as core member of [Electronika Club](https://sq-al.facebook.com/elektronica.iith/).
@@ -25,7 +31,8 @@ My projects can be found here [github](https://github.com/ronak132).
 My profile on [LinekdIn](https://www.linkedin.com/in/ronak132/).
 
 ### Hobbies
-I like to read. This blog is my favorite in [cricket](http://www.espncricinfo.com/blogs/content/story/blogs/index.html?genre=442)
+
+I like to read. This [blog](http://www.espncricinfo.com/blogs/content/story/blogs/index.html?genre=442) is my favorite in cricket.
 
 This is a good page to read about random stuff [Wikipedia:unusual articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
 
@@ -38,13 +45,6 @@ I feel Virat Kohli is better than Sachin Tendulkar(I can hear some knives being 
 Usain Bolt is the greatest olympian ever(not Michael Phelps, Mark Spitz, Jesse Owens, Nadia Comăneci, Bob Beamon, Carl Lewis). His record in 100m and 200m will be intact till 2040 easily.
 
 I am interested in railways, how they function and operate. I won a national level Railway quiz on [IndiaRailInfo](https://indiarailinfo.com/) in Oct, 2012. 
-
-
-### Information Retreival
-So, for Information retreival course we have to make a webpage which has phrase "kbeznak parmatonic" in it. Werid assignment, but it got me to make my own page, so cool.
-
-You can search for this phrase [here](https://sites.google.com/view/kbeznakparmatoniclist/home)
-
 
 
 ### Contact
