@@ -9,16 +9,13 @@ I worked for 2 years, first as software engineer at Bankbazaar and then project 
 I am interested in computer vision, machine learning and its application on various aspects, especially which impact life of a common man, makes it easy.
 
 Projects I worked on :-
-Sketch-tutor :- game designed to learn a new language by sketching the characters in a fun way.
+Sketch-tutor :- game designed to learn a new language by sketching the characters in a fun way. 
+
 Age determination by facial recognition - determining age of a person by using the density of wrinkle present on face.
+
 Video compression :- video compression based on region of interest in a video stream.
+
 Image captioning for grayscale images :- generating captions for grayscale images by using image classification and NLP techniques.
-
-I am also interested in robotics. I was Coordinator of [Robotics Club IITH](https://www.facebook.com/RoboticsClubIITH/).
-
-I also worked as core member of [Electronika Club](https://sq-al.facebook.com/elektronica.iith/).
-
-I was member of [ABURobocon](https://en.wikipedia.org/wiki/ABU_Robocon) IITH team for 2012-13 and 2013-14.
 
 Skills :- I mostly code in java. I have experience with C, C++, Python, Matlab.
 
@@ -30,7 +27,14 @@ My projects can be found here [github](https://github.com/ronak132).
 
 My profile on [LinekdIn](https://www.linkedin.com/in/ronak132/).
 
+
 ### Hobbies
+
+I am also interested in robotics. I was Coordinator of [Robotics Club IITH](https://www.facebook.com/RoboticsClubIITH/).
+
+I also worked as core member of [Electronika Club](https://sq-al.facebook.com/elektronica.iith/).
+
+I was member of [ABURobocon](https://en.wikipedia.org/wiki/ABU_Robocon) IITH team for 2012-13 and 2013-14.
 
 I like to read. This [blog](http://www.espncricinfo.com/blogs/content/story/blogs/index.html?genre=442) is my favorite in cricket.
 
