@@ -2,11 +2,11 @@
 
 I am a master's student at Texas A & M University pusuring my degree in Computer Science. I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with minor in computer science.
 
-I worked for 2 years, first as software engineer at Bankbazaar and then project assistant at Indian Institute of Science, Bangalore.
+I am currently interning at Cohesity as a software engineering intern. I have worked for 2 years, first as software engineer at Bankbazaar and then research assistant at Indian Institute of Science, Bangalore.
 
 ### more about me
 
-I am interested in computer vision, machine learning and its application on various aspects, especially which impact life of a common man, makes it easy.
+I am interested in computer vision, machine learning and its application on various aspects, especially which impact life of a common man, making it easy. I like playing around with large datasets.
 
 Projects I worked on :-
 Sketch-tutor :- game designed to learn a new language by sketching the characters in a fun way. 
@@ -16,6 +16,8 @@ Age determination by facial recognition - determining age of a person by using t
 Video compression :- video compression based on region of interest in a video stream.
 
 Image captioning for grayscale images :- generating captions for grayscale images by using image classification and NLP techniques.
+
+Playing around with large data sets (Amazon fine food, netflix, yelp reviews, brown corpus)
 
 Skills :- I mostly code in java. I have experience with C, C++, Python, Matlab.
 
@@ -40,7 +42,7 @@ I like to read. This [blog](http://www.espncricinfo.com/blogs/content/story/blog
 
 This is a good page to read about random stuff [Wikipedia:unusual articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
 
-I play cricket and table tennis sometimes. I watch cricket, tennis, badminton. I want to meet P V Sindhu and Maria Sharapova one day.
+I play cricket and table tennis sometimes. I watch cricket, tennis, badminton. 
 
 My favorite cricketers are Shane Warne(The best captain Australia chose not to have), Wasim Akram(who made the ball walk and talk like no-one did), Rahul Dravid(Probably the last classicial test bastman).
 
