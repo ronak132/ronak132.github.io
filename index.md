@@ -1,14 +1,14 @@
 ## About me
 
-I am a master's student at Texas A & M University pusuring my degree in Computer Science. I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with minor in computer science.
+I am a master's student at Texas A & M University pusuring my degree in Computer Science. I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with a minor in computer science.
 
-I am currently interning at Cohesity as a software engineering intern. I have worked for 2 years, first as software engineer at Bankbazaar and then research assistant at Indian Institute of Science, Bangalore.
+I am currently interning at Cohesity as a software engineering intern. I have worked for 2 years, first as a software engineer at Bankbazaar and then as research assistant at Indian Institute of Science, Bangalore.
 
 ### more about me
 
 I am interested in computer vision, machine learning and its application on various aspects, especially which impact life of a common man, making it easy. I like playing around with large datasets.
 
-Projects I worked on :-
+Projects I have worked on :-
 Sketch-tutor :- game designed to learn a new language by sketching the characters in a fun way. 
 
 Age determination by facial recognition - determining age of a person by using the density of wrinkle present on face.
@@ -23,7 +23,7 @@ Skills :- I mostly code in java. I have experience with C, C++, Python, Matlab.
 
 Softwares :- OpenCv, Matlab, Tensorflow.
 
-You can find my resume here [Resume](https://goo.gl/Sfpzku).
+You can find my resume here [Resume](https://drive.google.com/open?id=1ugWZUZ9zm51fn7W37gI58y8fnSxqLAy2).
 
 My projects can be found here [github](https://github.com/ronak132).
 
