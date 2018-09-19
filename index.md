@@ -2,7 +2,7 @@
 
 I am a master's student at Texas A & M University pusuring my degree in Computer Science. I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with a minor in computer science.
 
-I am currently interning at Cohesity as a software engineering intern. I have worked for 2 years, first as a software engineer at Bankbazaar and then as research assistant at Indian Institute of Science, Bangalore.
+I interned at Cohesity as a software engineering intern in summer 2018. I have worked for 2 years, first as a software engineer at Bankbazaar and then as research assistant at Indian Institute of Science, Bangalore.
 
 ### more about me
 
@@ -19,11 +19,11 @@ Image captioning for grayscale images :- generating captions for grayscale image
 
 Playing around with large data sets (Amazon fine food, netflix, yelp reviews, brown corpus)
 
-Skills :- I mostly code in java. I have experience with C, C++, Python, Matlab.
+Skills :- I mostly code in java. I have experience with C, C++, Python(keras, pandas, tensorflow), Matlab.
 
 Softwares :- OpenCv, Matlab, Tensorflow.
 
-You can find my resume here [Resume](https://drive.google.com/open?id=1ugWZUZ9zm51fn7W37gI58y8fnSxqLAy2).
+You can find my resume here [Resume](https://goo.gl/aeVH2u).
 
 My projects can be found here [github](https://github.com/ronak132).
 
@@ -33,8 +33,6 @@ My profile on [LinekdIn](https://www.linkedin.com/in/ronak132/).
 ### Hobbies
 
 I am also interested in robotics. I was Coordinator of [Robotics Club IITH](https://www.facebook.com/RoboticsClubIITH/).
-
-I also worked as core member of [Electronika Club](https://sq-al.facebook.com/elektronica.iith/).
 
 I was member of [ABURobocon](https://en.wikipedia.org/wiki/ABU_Robocon) IITH team for 2012-13 and 2013-14.
 
