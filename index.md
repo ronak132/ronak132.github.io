@@ -1,29 +1,39 @@
 ## About me
 
-I am a master's student at Texas A & M University pusuring my degree in Computer Science. I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with a minor in computer science.
+I am a student at Texas A & M University pusuring my Masters degree in Computer Science. planning to graduate in may'19. I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with a minor in computer science.
 
+Currently, I am working as an intern at Apple. I am working on news personalisation algorithms in algo design team under Apple News.
 I interned at Cohesity as a software engineering intern in summer 2018. I have worked for 2 years, first as a software engineer at Bankbazaar and then as research assistant at Indian Institute of Science, Bangalore.
 
 ### more about me
 
-I am interested in computer vision, machine learning and its application on various aspects, especially which impact life of a common man, making it easy. I like playing around with large datasets.
+I am interested in machine learning and its applications in the field of Computer vision, Natural Language Processing especially which impact life of a common man, making it easy. 
 
 Projects I have worked on :-
+
+Generating captions for Images :- Image caption generator by using encoder-decoder network with attention.
+
+AutoColor :- Coloring of gray-scale images by posing the problem as classification problem.
+
+Recommendation for Amazon fine food :- Recommendation engine for Amazon fine food dataset(1 M items, 20000 users) using item-item collaborative filtering.
+
+Quora-question similarity :- Finding similar quora question pairs using supervised learning algorithms and hand-picked features.
+
 Sketch-tutor :- game designed to learn a new language by sketching the characters in a fun way. 
 
 Age determination by facial recognition - determining age of a person by using the density of wrinkle present on face.
 
-Video compression :- video compression based on region of interest in a video stream.
+Video compression :- video compression based on region of interest for transmission at lower bandwidths.
 
-Image captioning for grayscale images :- generating captions for grayscale images by using image classification and NLP techniques.
+Twitter Users :- Implemented HITS approach on twitter dataset to find significant Twitter users.
 
-Playing around with large data sets (Amazon fine food, netflix, yelp reviews, brown corpus)
+Netflix Recommendations :-	Recommender system for Netflix dataset using item-item collaborative filtering. 
 
 Skills :- I mostly code in java. I have experience with C, C++, Python(keras, pandas, tensorflow), Matlab.
 
 Softwares :- OpenCv, Matlab, Tensorflow.
 
-You can find my resume here [Resume](https://goo.gl/aeVH2u).
+You can find my resume here [Resume](https://goo.gl/nQDwHH).
 
 My projects can be found here [github](https://github.com/ronak132).
 
@@ -54,6 +64,3 @@ I am interested in railways, how they function and operate. I won a national lev
 ### Contact
 
 I can be reached at ronakchaudhary1321993@gmail.com. I usually reply within an hour unless, ofcourse, I am sleeping.
-
-
-
