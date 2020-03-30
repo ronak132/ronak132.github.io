@@ -1,13 +1,14 @@
 ## About me
 
-I am a student at Texas A & M University pusuring my Masters degree in Computer Science. planning to graduate in may'19. I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with a minor in computer science.
+I am an Applied Researcher at Apple. I work on optimising search and ranking algorithms for Apple Media Products. 
 
-Currently, I am working as an intern at Apple. I am working on news personalisation algorithms in algo design team under Apple News.
-I interned at Cohesity as a software engineering intern in summer 2018. I have worked for 2 years, first as a software engineer at Bankbazaar and then as research assistant at Indian Institute of Science, Bangalore.
+I have received my Masters degree in Computer Science from Texas A & M University. Previously, I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with a minor in Computer Science.
+
+I have worked as a research intern at Apple on news personalisation algorithms and research assistant at Indian Institute of Science, Bangalore.
 
 ### more about me
 
-I am interested in machine learning and its applications in the field of Computer vision, Natural Language Processing especially which impact life of a common man, making it easy. 
+I am interested in machine learning and its applications in the field of Natural Language Processing especially which impact life of a common man, making it easy. 
 
 Projects I have worked on :-
 
@@ -63,4 +64,4 @@ I am interested in railways, how they function and operate. I won a national lev
 
 ### Contact
 
-I can be reached at ronakchaudhary1321993@gmail.com. I usually reply within an hour unless, ofcourse, I am sleeping.
+I can be reached at connectronak@gmail.com. 
