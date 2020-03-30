@@ -2,7 +2,7 @@
 
 I am an Applied Researcher at Apple. I work on optimising search and ranking algorithms for Apple Media Products. 
 
-I have received my Masters degree in Computer Science from Texas A & M University. Previously, I completed my undergraduate education from Indian Institute of Technology, Hyderabad in 2015 in Electrical Engineering with a minor in Computer Science.
+I have received my Masters degree in Computer Science from Texas A & M University. Previously, I received my Bachelors degree  from IIT Hyderabad in Electrical Engineering with a minor in Computer Science.
 
 I have worked as a research intern at Apple on news personalisation algorithms and research assistant at Indian Institute of Science, Bangalore.
 
